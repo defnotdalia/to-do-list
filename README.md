@@ -6,9 +6,13 @@ Welcome to the Simple To-Do List! This lightweight and user-friendly web applica
 # ✨ Features
 
 ➕ Add Tasks: Quickly add new tasks to your to-do list.
+
 ✅ Mark as Complete: Easily mark tasks as complete when you're done.
+
 🗑️ Delete Tasks: Remove tasks that you no longer need.
+
 📱 Responsive Design: Enjoy a seamless experience on both desktop and mobile devices.
+
 
 ## Live Demo
 [View Live Demo of my website](https://defnotdalia.github.io/to-do-list/)
